@@ -3,24 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [yu.wang@outlook.my](mailto:yu.wang@outlook.my)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-9318055554](tel:+1-9318055554)
 
 ---
 
 ## Mailing Address
-
-> 221B, Baker Street
+> Shanghai
 >
-> London
->
-> United Kingdom
+> China
 
 ---
 
 ## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+[Linkedin](https://www.linkedin.com/in/yu-wang/)
+<!-- 1. [Facebook](#) -->
+<!-- 2. [Twitter](#) -->
+<!-- 3. [Google+](#) -->
