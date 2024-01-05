@@ -10,7 +10,7 @@ I'm a graduate from [ACEM](https://www.acem.sjtu.edu.cn/en), [Shanghai Jiao Tong
 
 ## Research Interest
 
-Machine Leaning, Reinforcement Learning, Quantitative Finance.
+Machine Learning, Reinforcement Learning, Quantitative Finance.
 
 <!-- ## Publications
 
