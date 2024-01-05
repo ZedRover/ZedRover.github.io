@@ -17,7 +17,7 @@ is_contact: true
 --- -->
 
 ## Social
-[Linkedin](https://www.linkedin.com/in/yu-wang/)
+[Linkedin](https://www.linkedin.com/in/yu-wang-1a736318a/)
 <!-- 1. [Facebook](#) -->
 <!-- 2. [Twitter](#) -->
 <!-- 3. [Google+](#) -->
