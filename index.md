@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="yuwang.jpeg">
 
-I'm a graduate from [ACEM](https://www.acem.sjtu.edu.cn/en), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [A.P. Cheng Hua](https://www.acem.sjtu.edu.cn/en/faculty/huacheng.html). I will join the University of South Florida as a PhD student, continuing my studies under [Asst. Prof. Kaixun Hua](https://kingsley1989.github.io/).
+I'm a graduate from [ACEM](https://www.acem.sjtu.edu.cn/en), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [A.P. Cheng Hua](https://www.acem.sjtu.edu.cn/en/faculty/huacheng.html). I will join the University of British Columbia as a PhD student, continuing my studies under [Asst. Prof. Kaixun Hua](https://kingsley1989.github.io/).
 
 ## Research Interest
 
